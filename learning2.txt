@@ -1,1 +1,6 @@
 Need to learb jenkins this week
+docker
+k8s
+all cloud
+ci cd
+databricks
