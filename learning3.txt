@@ -1,4 +1,4 @@
 python
 scripting
-promethus
-grafana
+kibana
+databricks admin
